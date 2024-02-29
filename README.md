@@ -56,7 +56,9 @@ Challenges encountered during development included handling asynchronous data fe
 
 ## Getting Started
 
-Follow these steps to get the app up and running:
+Before proceeding, ensure that you have Flutter installed on your system. If not, you can follow the official Flutter installation guide [here](https://docs.flutter.dev/get-started/install) to install Flutter.
+
+Once Flutter is installed, follow these steps to get the app up and running:
 
 - Clone the repository: `git clone https://github.com/FaroukAishatuu/global_current_weather.git`
 - Install dependencies: `flutter pub get`
